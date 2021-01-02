@@ -2,8 +2,8 @@
 Petclinic en Springboot
 
 ## Récupération du code en local
-- > git clone 
-- > cd 
+- > git clone https://github.com/prodageo/EXG6090.git
+- > cd EXG6090
 
 ## Lancement
 - > mvn spring-boot:run
